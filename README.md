@@ -10,7 +10,7 @@ Indent subtasks under the project
 
 Mark projects or tasks as important using a star `*` before the task, followed by any number of spaces or tabs
 
-Mark projects or tasks as done by using a lowercase `x` before the task, followed by any number of spaces
+Mark projects or tasks as done by using a lowercase `x` before the task, followed by any number of spaces (shortcut: \x)
 
 #### Todo:
 
